@@ -1,0 +1,351 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Carrington 2.0 FR\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-05-01 12:06+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Boris Schapira <postmaster@borisschapira.com>\n"
+"Language-Team: Boris Schapira\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: Your Path\n"
+
+#: carrington/comment/comment-default.php:43
+msgid "(Your comment is awaiting moderation)"
+msgstr "(Commentaire en attente de mod&eacute;ration)"
+
+#: carrington/comment/comment-default.php:35
+#, php-format
+msgid "%s <span class=\"says\">says</span>"
+msgstr "%s <span class=\"says\">dit</span>"
+
+#: carrington/comment/comment-default.php:52
+#, php-format
+msgid "Permanent link to this comment"
+msgstr "Permalien vers ce commentaire"
+
+#: carrington/comment/ping.php:27
+#, php-format
+msgid "<cite class=\"vcard author fn entry-title\">%s</cite> <span class=\"linked-to-this-post alt-font\">linked to this post</span>"
+msgstr "<cite class=\"vcard author fn entry-title\">%s</cite> <span class=\"linked-to-this-post alt-font\">a publi&eacute; un lien vers ce billet</span>"
+
+#: carrington/comment/ping.php:33
+msgid "on"
+msgstr "le"
+
+#: carrington/comments/comments-default.php:25
+msgid "One Response"
+msgstr "Une r&eacute;ponse"
+
+#: carrington/comments/comments-default.php:25
+msgid "Stay in touch with the conversation, subscribe to the "
+msgstr "Suivez la conversation, abonnez-vous au "
+
+#: carrington/comments/comments-default.php:25
+msgid "<acronym title=\"Really Simple Syndication\">RSS</acronym> feed for comments on this post "
+msgstr "flux <acronym title=\"Really Simple Syndication\">RSS</acronym> des commentaires &agrave; ce billet "
+
+#: carrington/comments/comments-default.php:25
+#, php-format
+msgid "%d Responses"
+msgstr "%d r&eacute;ponses"
+
+#: carrington/comments/comments-default.php:31
+#, php-format
+msgid "Stay in touch with the conversation, subscribe to the <a class=\"feed\" rel=\"alternate\" href=\"%s\"><acronym title=\"Really Simple Syndication\">RSS</acronym> feed for comments on this post</a>."
+msgstr "Suivez la conversation, abonnez-vous au <a class=\"feed\" rel=\"alternate\" href=\"%s\">flux <acronym title=\"Really Simple Syndication\">RSS</acronym> des commentaires.</a>."
+
+#: carrington/comments/comments-default.php:52
+msgid "Continuing the Discussion"
+msgstr "En poursuivant la discussion"
+
+#: carrington/content/content-default.php:28
+msgid "Continued..."
+msgstr "Lire la suite..."
+
+#: carrington/content/content-default.php:28
+msgid "Pages: "
+msgstr "Pages: "
+
+#: carrington/content/content-default.php:31
+#, php-format
+msgid "Posted in %s."
+msgstr "Publi&eacute; dans %s."
+
+#: carrington/content/content-default.php:32
+#, php-format
+msgid "<p class=\"filed tags alt-font tight\">Tagged with "
+msgstr "<p class=\"filed tags alt-font tight\">Class&eacute; dans "
+
+#: carrington/content/content-default.php:32
+#, php-format
+msgid "Permalink "
+msgstr "Permalien "
+
+#: carrington/content/content-default.php:32
+#, php-format
+msgid "Signal an error "
+msgstr "Signaler une erreur "
+
+#: carrington/content/content-default.php:32
+msgid "Trackback "
+msgstr "R&eacute;trolien "
+
+#: carrington/content/content-default.php:32
+msgid "Tags "
+msgstr "Tags "
+
+#: carrington/content/content-default.php:32
+msgid "<span class=\"tags\">Tagged with "
+msgstr "<span class=\"tags\">&Eacute;tiquett&eacute; avec "
+
+#: carrington/content/content-default.php:36
+#: carrington/excerpt/search.php:25
+#, php-format
+msgid "<span class=\"by alt-font\">By</span> %s"
+msgstr "<span class=\"by alt-font\">Par</span> %s"
+
+#: carrington/content/page.php:34
+#, php-format
+msgid "<span class=\"by\">By</span> %s"
+msgstr "<span class=\"by\">Par</span> %s"
+
+#: carrington/content/content-default.php:40
+#: carrington/excerpt/excerpt-default.php:25
+msgid "No comments"
+msgstr "Aucun commentaire"
+
+#: carrington/content/content-default.php:40
+#: carrington/excerpt/excerpt-default.php:25
+msgid "1 comment"
+msgstr "1 commentaire"
+
+#: carrington/content/content-default.php:40
+#: carrington/excerpt/excerpt-default.php:25
+#, php-format
+msgid "% comments"
+msgstr "% commentaires"
+
+#: carrington/content/content-default.php:42
+msgid "Edit"
+msgstr "Modifier"
+
+#: carrington/excerpt/excerpt-default.php:24
+msgid "Posted in "
+msgstr "Publi&eacute; dans "
+
+#: carrington/footer/footer-default.php:26
+msgid "Proudly powered by <a href=\"http://wordpress.org/\" rel=\"generator\">WordPress</a> and <a href=\"http://carringtontheme.com\" title=\"Carrington theme for WordPress\">Carrington</a>."
+msgstr "Fi&egrave;rement propuls&eacute; par <a href=\"http://wordpress.org/\" rel=\"generator\">WordPress</a> et <a href=\"http://carringtontheme.com\" title=\"Th&egrave;me Carrington pour WordPress\">Carrington</a>."
+
+#: carrington/footer/footer-default.php:30
+#, php-format
+msgid "<a href=\"http://crowdfavorite.com\" title=\"Custom WordPress development, design and backup services.\" rel=\"developer designer\">%s</a>"
+msgstr "<a href=\"http://crowdfavorite.com\" title=\"Services personnalis&eacute;s de d&eacute;veloppement, design et sauvegarde WordPress.\" rel=\"developer designer\">%s</a>"
+
+#: carrington/forms/comment.php:30
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Vous devez &eacirc;tre <a href=\"%s\">connect&eacute;</a> pour pouvoir ajouter un commentaire."
+
+#: carrington/forms/comment.php:39
+msgid "Post a comment"
+msgstr "Ajouter un commentaire"
+
+#: carrington/forms/comment.php:42
+#, php-format
+msgid "You can use: %s"
+msgstr "Vous pouvez utiliser: %s"
+
+#: carrington/forms/comment.php:42
+msgid "Some HTML is OK"
+msgstr "Un peu de HTML est permis"
+
+#: carrington/forms/comment.php:48
+#, php-format
+msgid "Logged in as <a href=\"%s\">%s</a>. "
+msgstr "Connect&eacute; en tant que <a href=\"%s\">%s</a>. "
+
+#: carrington/forms/comment.php:48
+msgid "Log out of this account"
+msgstr "Se d&eacute;connecter de ce compte"
+
+#: carrington/forms/comment.php:48
+msgid "Logout &rarr;"
+msgstr "D&eacute;connection &rarr;"
+
+#: carrington/forms/comment.php:54
+msgid "Name"
+msgstr "Nom"
+
+#: carrington/forms/comment.php:56
+msgid "(required)"
+msgstr "(requis)"
+
+#: carrington/forms/comment.php:59
+msgid "Email"
+msgstr "Adresse &eacute;lectronique"
+
+#: carrington/forms/comment.php:63
+msgid "(required, but never shared)"
+msgstr "(requise, mais jamais publi&eacute;e)"
+
+#: carrington/forms/comment.php:66
+msgid "(never shared)"
+msgstr "(jamais publi&eacute;e)"
+
+#: carrington/forms/comment.php:71
+msgid "Your website address"
+msgstr "Votre site web"
+
+#: carrington/forms/comment.php:71
+msgid "Web"
+msgstr "Web"
+
+#: carrington/forms/comment.php:78
+msgid "Post comment"
+msgstr "Ajouter un commentaire"
+
+#: carrington/forms/comment.php:79
+#, php-format
+msgid "or, reply to this post via <a rel=\"trackback\" href=\"%s\">trackback</a>."
+msgstr "ou h&eacute;berger un <a rel=\"trackback\" href=\"%s\">r&eacute;trolien</a>."
+
+#: carrington/forms/search.php:26
+msgid "Search"
+msgstr "Rechercher"
+
+#: carrington/functions/admin.php:25
+#: carrington/functions/admin.php:64
+msgid "Carrington Settings"
+msgstr "R&eacute;glages Carrington"
+
+#: carrington/functions/admin.php:26
+msgid "Carrington"
+msgstr "Carrington"
+
+#: carrington/functions/admin.php:58
+msgid "Settings updated."
+msgstr "R&eacute;glages sauvegard&eacute;s"
+
+#: carrington/functions/admin.php:79
+msgid "Save Changes"
+msgstr "Sauvegarder les modifications"
+
+#: carrington/functions/admin.php:111
+#, php-format
+msgid "Home Column %s"
+msgstr "Colonne d'accueil %s"
+
+#: carrington/functions/admin.php:115
+msgid "Category:"
+msgstr "Cat&eacute;gorie:"
+
+#: carrington/functions/admin.php:119
+msgid "Show:"
+msgstr "Montrer:"
+
+#: carrington/functions/admin.php:121
+msgid "Latest Post Preview"
+msgstr "Pr&eacute;visualisation du billet le plus r&eacute;cent"
+
+#: carrington/functions/admin.php:122
+msgid "List of Recent Post Titles"
+msgstr "Liste de titres r&eacute;cents"
+
+#: carrington/functions/admin.php:126
+msgid "Length of preview, in characters (250 recommended):"
+msgstr "Taille de la pr&eacute;visualisation en nombre de caract&egrave;res (valeur recommand&eacute;e: 250):"
+
+#: carrington/functions/admin.php:130
+msgid "Number of titles to show in list (5 recommended):"
+msgstr "Nombre de titres &agrave; montrer dans la liste (valeur recommand&eacute;e: 5):"
+
+#: carrington/functions/admin.php:165
+msgid "Misc."
+msgstr "Divers"
+
+#: carrington/functions/admin.php:169
+msgid "Load archives and comments with AJAX:"
+msgstr "Charger les archives et les commentaires via AJAX:"
+
+#: carrington/functions/admin.php:173
+msgid "Give <a href=\"http://crowdfavorite.com\">Crowd Favorite</a> credit in footer:"
+msgstr "Mentionner <a href=\"http://crowdfavorite.com\">Crowd Favorite</a> en pied de page:"
+
+#: carrington/header/header-default.php:28
+#, php-format
+msgid "%s latest posts"
+msgstr "%s billets plus r&eacute;cents"
+
+#: carrington/header/header-default.php:29
+#, php-format
+msgid "%s latest comments"
+msgstr "%s commentaires plus r&eacute;cents"
+
+#: carrington/header/header-default.php:43
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: carrington/misc/nav-posts.php:20
+msgid "&laquo; Older posts"
+msgstr "&laquo; Billets plus anciens"
+
+#: carrington/misc/nav-posts.php:21
+msgid "Newer posts &raquo;"
+msgstr "Billets plus r&eacte;cents &raquo;"
+
+#: carrington/posts/author.php:35
+#, php-format
+msgid "Posts by: <a href=\"%s\">%s</a>"
+msgstr "Billets par: <a href=\"%s\">%s</a>"
+
+#: carrington/posts/author.php:43
+#: carrington/sidebar/sidebar-default.php:38
+#, php-format
+msgid "About %s"
+msgstr "&Agrave; propos de %s"
+
+#: carrington/posts/category.php:28
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Archives par cat&eacute;gories: %s"
+
+#: carrington/posts/search.php:30
+#, php-format
+msgid "Search Results for: %s"
+msgstr "R&eacute;sultats de la recherche pour: %s"
+
+#: carrington/posts/tag.php:28
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Archives par &eacute;tiquettes (tags): %s"
+
+#: carrington/sidebar/sidebar-default.php:27
+msgid "Subscribe"
+msgstr "S'abonner"
+
+#: carrington/sidebar/sidebar-default.php:28
+msgid "Site <acronym title=\"Really Simple Syndication\">RSS</acronym> feed"
+msgstr "Fil <acronym title=\"Really Simple Syndication\">RSS</acronym> du site"
+
+#: carrington/sidebar/sidebar-default.php:41
+#, php-format
+msgid "<a class=\"more\" href=\"%s\">more &rarr;</a>"
+msgstr "<a class=\"more\" href=\"%s\">suite  &rarr;</a>"
+
+#: carrington/misc/nav-post.php:20
+#, php-format
+msgid "&laquo; Previous"
+msgstr "&laquo; Pr&eacute;c&eacute;dent"
+
+#: carrington/misc/nav-post.php:21
+#, php-format
+msgid "Next &raquo;"
+msgstr "Suivant &raquo;"
+
